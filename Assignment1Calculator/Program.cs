@@ -1,14 +1,19 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Calculator!");
 
-void Adition (int value1, int value2 )
+void Adition(int value1, int value2)
 
 {
 
     Console.WriteLine($" The result is {value1 + value2} ");
 }
 
+void Adition(int[] values)
 
+{
+
+    Console.WriteLine($" The result i");
+}
 
 
 void Substraction (int value1, int value2)
